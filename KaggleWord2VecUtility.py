@@ -1,24 +1,3 @@
-#Skip to content
-#This repository
-#Search
-#Pull requests
-#Issues
-#Marketplace
-#Gist
- #@ankitkumarsinghrnc
- #Sign out
- #Watch 48
-  #Star 386
-  #Fork 398 wendykan/DeepLearningMovies
- #Code  Issues 2  Pull requests 1  Projects 0  Wiki Insights 
-#Branch: master Find file Copy pathDeepLearningMovies/KaggleWord2VecUtility.py
-#6dca1d3  on Dec 9, 2014
-#@wendykan wendykan First commit
-#1 contributor
-#RawBlameHistory     
-#59 lines (51 sloc)  2.05 KB
-#!/usr/bin/env python
-
 import re
 import nltk
 
@@ -75,5 +54,3 @@ class KaggleWord2VecUtility(object):
         # Return the list of sentences (each sentence is a list of words,
         # so this returns a list of lists
         return sentences
-#Contact GitHub API Training Shop Blog About
-#© 2017 GitHub, Inc. Terms Privacy Security Status Help
